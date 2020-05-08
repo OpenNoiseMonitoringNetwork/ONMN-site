@@ -19,9 +19,10 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-footer = []
-main = []
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
 [params]
 author = "Luis Gasco"
 contact_form_action = "#"
