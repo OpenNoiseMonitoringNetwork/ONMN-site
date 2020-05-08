@@ -12,16 +12,17 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Open Noise Monitoring Network develops a set of connectors to open
-    data platforms in order to acquire, standardize, and store the  environmental
-    noise data, to provide them to stakeholders.
+  description: ''
   content: "The increase in institutional transparency has led to the proliferation
     of open data platforms where local authorities share information about many urban
-    subjects, including environmental noise.\n\nThe access to these environmental
-    noise content is done in a particular way in each platform, moreover in many of
-    them it is not possible to access the historical data, and the data is presented
-    with different structures. These limitations create problems for researchers and
-    specialists who want to obtain information from different cities for their projects. "
+    subjects, including environmental noise.\nThe access to these environmental noise
+    content is done in a particular way in each platform, moreover in many of them
+    it is not possible to access the historical data, and the data is presented with
+    different structures. These limitations create problems for researchers and specialists
+    who want to obtain information from different cities for their projects. \nOpen
+    Noise Monitoring Network develops a set of connectors to open data platforms in
+    order to acquire, standardize, and store the  environmental noise data, to provide
+    them to stakeholders."
   image: images/ONMN_diagram_purple.png
 portfolio:
   enable: true
