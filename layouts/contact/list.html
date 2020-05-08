@@ -32,6 +32,15 @@
       </form>
     </div>
     <div class="contact-box row">
+       <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-6 bg-primary bg-primary">
+                   <div class="service-item">
+                      <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                   </div>
+               </div>
+             </div>
+      </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
           <!--
@@ -61,16 +70,4 @@
     </div>
   </div>
 </section>
-<section class="service-arrow">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-6 bg-primary bg-primary">
-           <div class="service-item">
-              <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-           </div>
-       </div>
-     </div>
-  </div>
-</section>
-
 {{ end }}
