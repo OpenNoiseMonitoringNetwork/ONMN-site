@@ -32,17 +32,6 @@
       </form>
     </div>
     <div class="contact-box row">
-       <div class="container-fluid">
-            <div class="row">
-              <div class="col-md-6 bg-primary bg-primary">
-                   <div class="service-item">
-                     {{ range .Site.Params.social }}
-                      <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                     {{ end }}
-                   </div>
-               </div>
-             </div>
-      </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
           <!--
@@ -70,6 +59,20 @@
       </div>
       {{ end }}
     </div>
+  </div>
+  <div class="container">
+    <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-6 bg-primary bg-primary">
+                   <div class="block">
+                     {{ range .Site.Params.social }}
+                     <i class="{{ .icon }}"></i>
+                     <h3 href="{{ .link | safeURL }}">Follow us on Twitter!</h3>
+                     {{ end }}
+                   </div>
+              </div>
+            </div>
+      </div>
   </div>
 </section>
 {{ end }}
