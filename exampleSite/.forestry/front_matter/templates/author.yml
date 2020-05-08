@@ -25,5 +25,4 @@ fields:
     name: link
     label: link
 pages:
-- exampleSite/content/english/author/luis-gasco-1.md
 - exampleSite/content/english/author/luis-gasco.md
