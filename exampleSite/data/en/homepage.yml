@@ -20,7 +20,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/background_base.png
-  title: WE BELIEVE IN GREAT IDEAS
+  title: How do we solve the problem?
   content: Open Noise Monitoring Network is developing a set of connectors to open
     data platforms in order to acquire, standardize, and store the  environmental
     noise data, to provide them to stakeholders.
