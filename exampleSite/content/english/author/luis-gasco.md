@@ -15,7 +15,7 @@ link = "https://www.linkedin.com/in/luisgascosanchez/"
 icon = "ion-social-facebook"
 link = "https://www.facebook.com/Luis-Gasco-Sanchez-165003227504667/"
 [[social]]
-icon = "ion-social-twitter-outline"
+icon = "ion-social-twitter"
 link = "https://twitter.com/luisgasco"
 
 +++
