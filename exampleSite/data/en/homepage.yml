@@ -24,15 +24,15 @@ portfolio:
   content: |-
     The Open Noise Monitoring Network is developing a toolkit to:
 
-    * Connect to various open data platforms and acquire the noise monitoring data
+    * Connect to Open Data platforms and acquire noise monitoring data
 
-    * Standardize the data to a common structure.
+    * Standardize the data to a common schema.
 
-    * Store the standardized data in the project database
+    * Store the standardized data in a project database
 
     * Provide the data to stakeholders through an API
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
