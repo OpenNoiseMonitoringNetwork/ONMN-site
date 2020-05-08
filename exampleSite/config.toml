@@ -22,24 +22,20 @@ weight = 2
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 6
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
+weight = 6
 [params]
 author = "Luis Gasco"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "Access all the noise data"
+email = "luisgascosanchez [at] gmail [dot] com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = ""
 logo = "images/logo-1.png"
-mobile = "0124857985320"
+mobile = ""
 multi_author = false
 [params.gmap]
 enable = false
@@ -48,7 +44,7 @@ map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
-enable = true
+enable = false
 label = "Get A Quote"
 link = "contact"
 [[params.plugins.css]]
@@ -75,8 +71,5 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = ""
 [[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://twitter.com/openskynetwork"
