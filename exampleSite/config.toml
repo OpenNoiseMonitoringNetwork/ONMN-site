@@ -7,14 +7,14 @@ theme = "airspace-hugo"
 title = "Open Noise Monitoring Network"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Open Noise Monitoring Network All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Open Noise Monitoring Network All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -24,7 +24,7 @@ footer = []
 main = []
 [params]
 author = "Luis Gasco"
-contact_form_action = "formspree.io/mjvavnpgv"
+contact_form_action = "https://formspree.io/mjvavnpg"
 description = "Access all the noise data"
 email = ""
 google_analitycs_id = ""
@@ -67,4 +67,4 @@ enable = true
 preloader = ""
 [[params.social]]
 icon = "ion-social-twitter-outline"
-link = "https://twitter.com/openskynetwork"
+link = "https://twitter.com/NoiseMonitorNet"
