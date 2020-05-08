@@ -36,7 +36,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
   service_item:
   - icon: ion-network
     name: Centralize
@@ -51,6 +51,7 @@ service:
     content: ''
     icon: ion-ios-world
   title: OUR GOALS
+  description: OUR GOALS
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg
