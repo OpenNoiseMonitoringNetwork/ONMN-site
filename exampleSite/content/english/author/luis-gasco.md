@@ -12,7 +12,7 @@ link = "https://github.com/luisgasco"
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/luisgascosanchez/"
 [[social]]
-icon = "ion-social-facebook-outline"
+icon = "ion-social-facebook"
 link = "https://www.facebook.com/Luis-Gasco-Sanchez-165003227504667/"
 [[social]]
 icon = "ion-social-twitter-outline"
