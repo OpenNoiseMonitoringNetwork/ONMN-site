@@ -9,7 +9,7 @@ categories:
 tags:
 - Technology
 - Misc
-description: this is meta description
+description: ''
 type: post
 
 ---
