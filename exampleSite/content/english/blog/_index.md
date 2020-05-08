@@ -1,6 +1,6 @@
 ---
 title: Latest News
-description: this is meta description
+description: ''
 bg_image: "/images/Logo_ONMN_temporal.png"
 menu:
   main:
