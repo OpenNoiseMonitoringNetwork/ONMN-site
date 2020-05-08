@@ -19,12 +19,15 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+footer = []
+main = []
 [params]
 author = "Luis Gasco"
 contact_form_action = "https://formspree.io/mjvavnpg"
 description = "Access all the noise data"
 email = ""
-google_analitycs_id = ""
+google_analitycs_id = "UA-86418803-3"
 location = ""
 logo = "images/logo-1.png"
 mobile = ""
