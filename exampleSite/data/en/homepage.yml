@@ -11,13 +11,11 @@ banner:
     link: project
 about:
   enable: true
-  title: About Open Noise Monitoring Network
-  description: Open Noise Monitoring Network is developing a set of connectors to
-    open data platforms in order to acquire, standardize, and store the  environmental
-    noise data, to provide them to stakeholders.
+  title: What is the problem we are trying to solve?
+  description: ''
   content: |-
-    The increase in institutional transparency has led to the proliferation of open data platforms where local authorities share information about many urban subjects, including environmental noise.
-    Access to the data, which is usually presented with different structures, is done differently on each platform, and in many of them it is not possible to access historical noise data. These limitations create problems for researchers and specialists who want to obtain information from different cities for their projects, being this the problem that ONMN wants to solve.
+    Increased institutional transparency has led to the proliferation of open data platforms where local authorities share information on many urban subjects, including the environmental noise.
+    The access to the data, which is usually presented with different structures, is done differently on each platform, and in many of them it is not possible to access historical noise data. These limitations create problems for researchers and specialists who want to obtain information from different cities for their projects, being this the problem that ONMN wants to solve.
   image: images/ONMN_diagram_purple.png
 portfolio:
   enable: true
