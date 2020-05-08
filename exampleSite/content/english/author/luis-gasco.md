@@ -3,13 +3,13 @@ email = ""
 image = "/images/0.jpg"
 title = "Luis Gasco"
 [[social]]
-icon = "ti-desktop"
+icon = "ion-ios-home"
 link = "http://luisgasco.es/"
 [[social]]
-icon = "ti-github"
+icon = "ion-social-github"
 link = "https://github.com/luisgasco"
 [[social]]
-icon = "ti-linkedin"
+icon = "ion-social-linkedin"
 link = "https://www.linkedin.com/in/luisgascosanchez/"
 [[social]]
 icon = "ion-social-facebook"
