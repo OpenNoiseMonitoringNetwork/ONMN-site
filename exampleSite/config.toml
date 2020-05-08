@@ -19,16 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-url = "https://onmn.org/contact"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-url = "https://onmn.org/blog"
-weight = 1
 [params]
 author = "Luis Gasco"
 contact_form_action = "https://formspree.io/mjvavnpg"
