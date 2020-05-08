@@ -38,15 +38,15 @@ service:
   service_item:
   - icon: ion-network
     name: Centralize
-    content: ''
+    content: Centralize access to data from noise monitoring devices
   - icon: ion-ios-search-strong
     name: Facilitate research
-    content: ''
+    content: Facilitate environmental noise research in urban areas
   - icon: ion-podium
     name: " Improve analytics"
-    content: ''
+    content: Improve noise analysis for better insights and decision making
   - icon: ion-ios-world
-    name: Be open
+    name: Transparency
     content: ''
 cta:
   enable: true
