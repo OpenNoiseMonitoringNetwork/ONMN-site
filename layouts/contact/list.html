@@ -34,7 +34,7 @@
     <div class="contact-box row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <!--
+          <!-- Esto es para mostrar la dirección ajustada dentro dle archivo config.toml (en forestry.io es en configurations)
           <h2>{{ i18n "address_title" }}</h2>
           <ul class="address-block">
             <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
@@ -42,11 +42,13 @@
             <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ .Site.Params.phone }}</li>
           </ul>
           -->
+          <!-- Se decide quitar esto. Si en algún momento se pone la dirección y más RR.SS lo mejor será añadir esto
           <ul class="social-icons">
             {{ range .Site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
           </ul>
+          -->
         </div>
       </div>
       {{ if .Site.Params.gmap.enable }}
@@ -66,7 +68,7 @@
             <div class="row">
               <div class="col-md-12 bg-primary bg-primary">
                 {{ range .Site.Params.social }}
-                 <a style="background: #655e7a00;" href="{{ .link | safeURL }}">    
+                 <a style="background: #655e7a00;color:"#ffffff"" href="{{ .link | safeURL }}">    
                    <div class="block" style="text-align:center;">
                      <i class="{{ .icon }}" style="font-size: 48px;"></i>
                       <h3>Follow us on Twitter!</h3><br>
