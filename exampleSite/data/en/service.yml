@@ -46,7 +46,7 @@ service:
     name: " Improve analytics"
     content: Improve noise analysis for better insights and decision making
   - icon: ion-ios-world
-    name: Transparency
-    content: ''
+    name: Promote open data
+    content: Introduce and foster an open data approach to environmental noise management
 cta:
   enable: true
