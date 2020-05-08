@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to the new initiative: the Open Noise Monitoring Network'
+title: 'Welcome to a new initiative: the Open Noise Monitoring Network'
 date: 2020-05-08T16:07:10+00:00
 author: Luis Gascó
 image: "/images/first_blog_image.png"
