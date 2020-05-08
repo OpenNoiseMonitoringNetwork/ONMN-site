@@ -1,4 +1,4 @@
-baseURL = "https://onmn.netlify.com"
+baseURL = "https://onmn.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
