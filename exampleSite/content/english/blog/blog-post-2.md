@@ -1,6 +1,6 @@
 ---
 title: How To Wear Bright Shoes
-date: '2018-09-24T05:07:10.000+00:00'
+date: 2018-09-24T05:07:10.000+00:00
 author: Mark Dinn
 image: images/blog/blog-post-2.jpg
 bg_image: images/featue-bg.jpg
