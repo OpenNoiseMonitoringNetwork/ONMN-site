@@ -12,15 +12,16 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Open Noise Monitoring Network develops a set of connectors to open
+    data platforms in order to acquire, standardize, and store the  environmental
+    noise data, to provide them to stakeholders.
+  content: "The increase in institutional transparency has led to the proliferation
+    of open data platforms where local authorities share information about many urban
+    subjects, including environmental noise.\n\nThe access to these environmental
+    noise content is done in a particular way in each platform, moreover in many of
+    them it is not possible to access the historical data, and the data is presented
+    with different structures. These limitations create problems for researchers and
+    specialists who want to obtain information from different cities for their projects. "
   image: images/ONMN_diagram_purple.png
 portfolio:
   enable: true
