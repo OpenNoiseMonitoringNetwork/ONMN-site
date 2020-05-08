@@ -2,9 +2,9 @@
 banner:
   enable: true
   bg_image: images/slider_image.jpg
-  title: The new initiative to gather all noise monitoring data
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: The initiative to unify the collection of noise monitoring data
+  content: Our purpose is to facilitate access to noise monitor data through a common
+    API service and a standardized data structure.
   button:
     enable: true
     label: Discover Our Project
@@ -40,6 +40,9 @@ portfolio:
     link: project
 service:
   enable: true
+  service_item:
+  - name: ''
+    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
