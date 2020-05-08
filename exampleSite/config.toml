@@ -22,15 +22,11 @@ weight = 2
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
-[[menu.main]]
-URL = ""
-name = "Blog"
-weight = ""
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 2
 [params]
 author = "Luis Gasco"
 contact_form_action = "#"
