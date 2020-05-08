@@ -1,11 +1,11 @@
 ---
 title: Latest News
-description: this is meta description
+description: Last news about us
 bg_image: images/featue-bg.jpg
 menu:
   main:
-    URL: blog
     name: Blog
+    URL: blog
     weight: 1
 
 ---
