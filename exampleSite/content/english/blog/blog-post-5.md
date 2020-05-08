@@ -17,8 +17,6 @@ Some years ago I discovered the [OpenSky-Networks initiative](https://opensky-ne
 
 The Open Noise Monitoring network has born with a similar purpose but applied to environmental noise management. Taking advantage of existing noise monitoring networks, which publish their data on open urban data platforms, a infrastructure will be designed to provide a common access point for such noise information. 
 
-![](/images/Logo_ONMN_temporal.png)
-
 Additionally, we are looking for collaborators or partners to be part of the initiative. We welcome both institutions, noise observatories, researchers, acousticians, and enthusiast of open data or environmental noise.
 
 If you need more information, we invite you to send us an email using the form in the  ["Contact" section](https://onmn.netlify.app/contact/) in this website, and to follow and write to our  [Twitter account](https://twitter.com/NoiseMonitorNet).
