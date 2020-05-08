@@ -11,10 +11,6 @@ tags:
 - Misc
 description: ''
 type: post
-menu:
-  main:
-    name: Blog
-    weight: 1
 
 ---
 Some years ago I discovered the [OpenSky-Networks initiative](https://opensky-network.org/) . This association, created from the academia, managed to bring together a diverse group of collaborators from private and public sector to improve the security, reliability and efficiency of the air space usage by providing open access of real-world air traffic control data to the public.
