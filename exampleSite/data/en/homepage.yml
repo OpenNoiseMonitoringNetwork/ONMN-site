@@ -11,7 +11,7 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
+  title: About Open Noise Monitoring Network
   description: Open Noise Monitoring Network is developing a set of connectors to
     open data platforms in order to acquire, standardize, and store the  environmental
     noise data, to provide them to stakeholders.
