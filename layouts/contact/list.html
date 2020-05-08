@@ -34,12 +34,23 @@
     <div class="contact-box row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
+          <!--
           <h2>{{ i18n "address_title" }}</h2>
           <ul class="address-block">
             <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
             <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
             <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ .Site.Params.phone }}</li>
           </ul>
+          -->
+          <div class="row">
+              {{ range .Site.Params.social}}
+              <div class="col-sm-6 col-md-3">
+                <div class="service-item">
+                  <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                </div>
+              </div>
+              {{ end }}
+          </div>
           <ul class="social-icons">
             {{ range .Site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
