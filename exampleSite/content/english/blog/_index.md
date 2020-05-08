@@ -1,11 +1,7 @@
 ---
 title: Latest News
-description: ''
-bg_image: "/images/Logo_ONMN_temporal.png"
-menu:
-  main:
-    name: Blog
-    URL: blog
-    weight: 1
+description: Last news about us
+bg_image: images/featue-bg.jpg
+draft: true
 
 ---
