@@ -21,9 +21,16 @@ portfolio:
   enable: true
   bg_image: images/background_base.png
   title: THE SOLUTION
-  content: Open Noise Monitoring Network is developing a set of connectors to several
-    open data platforms in order to acquire, standardize, and store the  environmental
-    noise data, to provide them to stakeholders.
+  content: |-
+    The Open Noise Monitoring Network is developing a toolkit to:
+
+    * Connect to various open data platforms and acquire the noise monitoring data
+
+    * Standardize the data to a common structure.
+
+    * Store the standardized data in the project database
+
+    * Provide the data to stakeholders through an API
   button:
     enable: true
     label: View Works
