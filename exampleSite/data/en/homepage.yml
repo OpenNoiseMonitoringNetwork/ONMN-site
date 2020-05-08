@@ -11,7 +11,7 @@ banner:
     link: project
 about:
   enable: true
-  title: What is the problem we are trying to solve?
+  title: The Problem
   description: ''
   content: |-
     Increased institutional transparency has led to the proliferation of open data platforms where local authorities share information on many urban subjects, including the environmental noise.
