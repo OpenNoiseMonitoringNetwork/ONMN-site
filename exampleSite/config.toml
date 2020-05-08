@@ -19,15 +19,14 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
+[menu]
+footer = []
+main = []
 [params]
 author = "Luis Gasco"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/mjvavnpgv"
 description = "Access all the noise data"
-email = "luisgascosanchez [at] gmail [dot] com"
+email = ""
 google_analitycs_id = ""
 location = ""
 logo = "images/logo-1.png"
