@@ -64,9 +64,9 @@
     <div class="container-fluid">
             <div class="row">
               <div class="col-md-6 bg-primary bg-primary">
-                   <div class="block">
+                   <div class="block" style="text-align:center;">
                      {{ range .Site.Params.social }}
-                     <i class="{{ .icon }}"></i>
+                     <i class="{{ .icon }}" style="font-size: 48px;"></i>
                      <h3 href="{{ .link | safeURL }}">Follow us on Twitter!</h3>
                      {{ end }}
                    </div>
