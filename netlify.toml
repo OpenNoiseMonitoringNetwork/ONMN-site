@@ -6,14 +6,14 @@
   HUGO_VERSION = "0.60.1"
   HUGO_THEME = "repo"
   
+
 [[headers]]
-  for = "/static/plugins/Ionicons/fonts/*.woff"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Content-Type = "application/font-woff"
-    
+for = "/static/plugins/Ionicons/fonts/*.woff"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "application/font-woff"
 [[headers]]
-  for = "/static/plugins/Ionicons/fonts/*.ttf"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Content-Type = "application/font-ttf"
+for = "/static/plugins/Ionicons/fonts/*.ttf"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "application/font-ttf"
