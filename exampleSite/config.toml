@@ -45,7 +45,7 @@ link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/Ionicons/css/ionicons.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.5/css/ionicons.min.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
