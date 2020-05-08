@@ -9,7 +9,11 @@
             {{ end }}
 					</ul>
 				</div>
-				<p class="copyright">{{ .Site.Params.copyright | markdownify }}</p>
+				<p class="copyright">{{ .Site.Params.copyright | markdownify }}
+				{{ range .Site.Params.social }}
+					<li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+				{{ end }}
+				</p>
 			</div>
 		</div>
 	</div>
