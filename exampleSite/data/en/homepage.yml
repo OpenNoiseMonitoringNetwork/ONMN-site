@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/slider_image.jpg
   title: The initiative to unify the collection of noise monitoring data
-  content: Our purpose is to facilitate access to noise monitor data through a common
-    API service and a standardized data structure.
+  content: Our purpose is to facilitate access to noise monitoring data through a
+    common API service and a standardized data structure
   button:
     enable: true
     label: Discover Our Project
