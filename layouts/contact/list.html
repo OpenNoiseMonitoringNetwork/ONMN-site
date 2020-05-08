@@ -68,10 +68,10 @@
             <div class="row">
               <div class="col-md-12 bg-primary bg-primary">
                 {{ range .Site.Params.social }}
-                 <a style="background: #655e7a00; color:#ffffff" href="{{ .link | safeURL }}">    
+                 <a style="background: #655e7a00; color:#ffffff" href="{{ .link | safeURL }}" target="_blank">    
                    <div class="block" style="text-align:center;">
                      <i class="{{ .icon }}" style="font-size: 48px;"></i>
-                      <h3>Follow us on Twitter!</h3><br>
+                      <h4>Follow us on Twitter!</h4><br>
                    </div>
                  </a>
                 {{ end }}
