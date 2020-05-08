@@ -11,6 +11,7 @@ tags:
 - Retro
 description: this is meta description
 type: post
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
