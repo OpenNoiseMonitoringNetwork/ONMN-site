@@ -42,15 +42,6 @@
             <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ .Site.Params.phone }}</li>
           </ul>
           -->
-          <div class="row">
-              {{ range .Site.Params.social}}
-              <div class="col-sm-6 col-md-3">
-                <div class="service-item">
-                  <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                </div>
-              </div>
-              {{ end }}
-          </div>
           <ul class="social-icons">
             {{ range .Site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
@@ -68,6 +59,17 @@
       </div>
       {{ end }}
     </div>
+  </div>
+</section>
+<section class="service-arrow">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 bg-primary bg-primary">
+           <div class="service-item">
+              <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+           </div>
+       </div>
+     </div>
   </div>
 </section>
 
