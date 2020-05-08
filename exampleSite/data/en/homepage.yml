@@ -21,7 +21,7 @@ about:
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
     fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
     culpa qui officia deserunt mollit anim id.
-  image: images/ONMN_diagram.png
+  image: images/ONMN_diagram_purple.png
 portfolio:
   enable: true
   bg_image: images/background_base.png
