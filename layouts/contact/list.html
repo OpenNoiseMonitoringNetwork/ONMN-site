@@ -7,7 +7,7 @@
 <section class="contact-form">
   <div class = "container">
    <form
-  action="https://formspree.io/mjvavnpg"
+  action="{{ .Site.Params.contact_form_action | safeURL }}"
   method="POST"
 >
   <label>
@@ -26,7 +26,7 @@
   </div>
   <div class="container">
     <div class="row">
-      <form method="POST" action="{{ .Site.Params.contact_form_action | safeURL }}">
+      <form method="POST" action="https://formspree.io/mjvavnpg">
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
