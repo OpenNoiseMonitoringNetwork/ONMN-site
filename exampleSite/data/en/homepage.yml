@@ -22,15 +22,15 @@ portfolio:
   bg_image: images/background_base.png
   title: THE SOLUTION
   content: |-
-    The Open Noise Monitoring Network is developing a toolkit to:
+    The Open Noise Monitoring Network is developing a toolkit for:
 
-    * Connect to Open Data platforms and acquire noise monitoring data
+    * Connect to Open Data platforms and acquire noise monitoring data.
 
     * Standardize the data to a common schema.
 
-    * Store the standardized data in a project database
+    * Store the standardized data in a common database.
 
-    * Provide the data to stakeholders through an API
+    * Provide the data to stakeholders through an API service.
   button:
     enable: false
     label: View Works
