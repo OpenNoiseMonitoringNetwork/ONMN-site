@@ -20,4 +20,4 @@ These facts have encouraged a group of European researchers to propose the defin
 
 ![Table showing the Data Structure proposed](/images/webp-net-resizeimage.jpg "Measurement data structure proposed in the research paper")
 
-Thank you for reading, and you will be informed of the progress of the ONMN initiative in the near future.
+Thank you for reading, and you will be informed about the progress of the ONMN initiative in the near future!
