@@ -6,7 +6,7 @@ date = 2020-06-14T22:00:00Z
 description = ""
 image = "/images/ijerph-logo.webp"
 tags = ["Research", "Technology", "Pollution", "Noise", "Misc"]
-title = "Inspiring research confirms the need to standardize noise data"
+title = "A inspiring research paper confirms the need to standardize noise data"
 type = "post"
 
 +++
