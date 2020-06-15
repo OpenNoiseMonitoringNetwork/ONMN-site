@@ -4,6 +4,7 @@ bg_image = "/images/Logo_ONMN_temporal.png"
 categories = ["News"]
 date = 2020-06-14T22:00:00Z
 description = ""
+draft = true
 image = ""
 tags = []
 title = "Inspiring research confirms the need to standardize noise data"
@@ -16,8 +17,8 @@ The lockdown have changed the sonic environment in urban areas. Suddenly, the no
 
 These facts have encouraged a group of European researchers to propose the definition of a minimum standardized data structure that would allow the intercomparison of noise pollution data obtained before, during and after confinement in order to carry out research on this topic.
 
-[The scientific paper](https://www.mdpi.com/1660-4601/17/12/4205/htm) proposes a data structure for exchanging information (shown in the table below), which is quite similar to the one being developed in the Open Noise Monitoring Network. 
+[The scientific paper](https://www.mdpi.com/1660-4601/17/12/4205/htm) proposes a the data structure for exchanging information shown in the image below. The data structure is pretty similar to that being developed at the Open Noise Monitoring Network, which gives us a good indicator of the correct development of the project.
 
-![Table showing the Data Structure proposed](/images/table_paper.JPG "Measurement data structure proposed in the research paper")
+![Table showing the Data Structure proposed](/images/webp-net-resizeimage.jpg "Measurement data structure proposed in the research paper")
 
 Asensio, C.; Aumond, P.; Can, A.; Gascó, L.; Lercher, P.; Wunderli, J.-M.; Lavandier, C.; de Arcas, G.; Ribeiro, C.; Muñoz, P.; Licitra, G. A Taxonomy Proposal for the Assessment of the Changes in Soundscape Resulting from the COVID-19 Lockdown. _Int. J. Environ. Res. Public Health_ **2020**, _17_, 4205, doi: [**https://doi.org/10.3390/ijerph17124205**](https://doi.org/10.3390/ijerph17124205 "https://doi.org/10.3390/ijerph17124205")
