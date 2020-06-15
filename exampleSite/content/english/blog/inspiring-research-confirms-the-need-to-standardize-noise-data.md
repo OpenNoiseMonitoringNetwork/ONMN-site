@@ -4,7 +4,6 @@ bg_image = "/images/Logo_ONMN_temporal.png"
 categories = ["News"]
 date = 2020-06-14T22:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Inspiring research confirms the need to standardize noise data"
