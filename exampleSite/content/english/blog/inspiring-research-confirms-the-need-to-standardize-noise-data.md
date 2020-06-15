@@ -4,8 +4,7 @@ bg_image = "/images/Logo_ONMN_temporal.png"
 categories = ["News"]
 date = 2020-06-14T22:00:00Z
 description = ""
-draft = true
-image = ""
+image = "/images/ijerph-logo.webp"
 tags = []
 title = "Inspiring research confirms the need to standardize noise data"
 type = "post"
@@ -17,8 +16,8 @@ The lockdown have changed the sonic environment in urban areas. Suddenly, the no
 
 These facts have encouraged a group of European researchers to propose the definition of a minimum standardized data structure that would allow the intercomparison of noise pollution data obtained before, during and after confinement in order to carry out research on this topic.
 
-[The scientific paper](https://www.mdpi.com/1660-4601/17/12/4205/htm) proposes a the data structure for exchanging information shown in the image below. The data structure is pretty similar to that being developed at the Open Noise Monitoring Network, which gives us a good indicator of the correct development of the project.
+[The scientific paper](https://www.mdpi.com/1660-4601/17/12/4205/htm) proposes the structure for the exchange of data shown in the image below. The scheme is quite similar to the one being developed in the Open Noise Monitoring Network, which gives us a **good indicator of the correct development of the project** and also allows us to **validate our hypothesis about the problem of standardization** when sharing data in the field of environmental acoustics.
 
 ![Table showing the Data Structure proposed](/images/webp-net-resizeimage.jpg "Measurement data structure proposed in the research paper")
 
-Asensio, C.; Aumond, P.; Can, A.; Gascó, L.; Lercher, P.; Wunderli, J.-M.; Lavandier, C.; de Arcas, G.; Ribeiro, C.; Muñoz, P.; Licitra, G. A Taxonomy Proposal for the Assessment of the Changes in Soundscape Resulting from the COVID-19 Lockdown. _Int. J. Environ. Res. Public Health_ **2020**, _17_, 4205, doi: [**https://doi.org/10.3390/ijerph17124205**](https://doi.org/10.3390/ijerph17124205 "https://doi.org/10.3390/ijerph17124205")
+Thank you for reading, and you will be informed of the progress of the ONMN initiative in the near future.
