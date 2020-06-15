@@ -19,4 +19,6 @@ These facts have encouraged a group of European researchers to propose the defin
 
 [The scientific paper](https://www.mdpi.com/1660-4601/17/12/4205/htm) proposes a data structure for exchanging information (shown in the table below), which is quite similar to the one being developed in the Open Noise Monitoring Network. 
 
+![Table showing the Data Structure proposed](/images/table_paper.JPG "Measurement data structure proposed in the research paper")
+
 Asensio, C.; Aumond, P.; Can, A.; Gascó, L.; Lercher, P.; Wunderli, J.-M.; Lavandier, C.; de Arcas, G.; Ribeiro, C.; Muñoz, P.; Licitra, G. A Taxonomy Proposal for the Assessment of the Changes in Soundscape Resulting from the COVID-19 Lockdown. _Int. J. Environ. Res. Public Health_ **2020**, _17_, 4205, doi: [**https://doi.org/10.3390/ijerph17124205**](https://doi.org/10.3390/ijerph17124205 "https://doi.org/10.3390/ijerph17124205")
